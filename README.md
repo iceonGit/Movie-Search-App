@@ -1,6 +1,7 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Description
+This App was created in React and it uses the OmniDB API to fetch the movies along with their descriptions.
 
 ## Available Scripts
 
